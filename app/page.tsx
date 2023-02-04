@@ -10,7 +10,7 @@ export default function Home() {
             <Top />
             <SocialIcons />
             <p className="flex justify-center py-2 italic text-gray-400">
-              Since my old site got delted, I have quickly made this temporary
+              Since my old site got deleted, I have quickly made this temporary
               one.
             </p>
           </div>

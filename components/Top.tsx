@@ -10,7 +10,7 @@ export default function Top() {
           <Image
             src={me}
             alt="Picture of me."
-            className="rounded-full w-48 h-48"
+            className="rounded-full w-1/2 h-1/2"
           />
         </div>
         <h1 className="text-4xl flex justify-center font-bold ">
