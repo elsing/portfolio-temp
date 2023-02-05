@@ -5,7 +5,7 @@ export default function SocialIcons() {
     <div className="flex gap-2 py-2 justify-center">
       <SocialIcon
         target="_blank"
-        url="https://www.linkedin.com/in/elliot-singer/"
+        url="https://www.linkedin.com/in/elliotsinger/"
       />
       <SocialIcon target="_blank" url="https://github.com/elsing" />
       <SocialIcon target="_blank" url="mailto:elliot@singermail.uk" />
