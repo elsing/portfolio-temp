@@ -17,7 +17,7 @@ export default function Top() {
           Elliot Singer
         </h1>
         <p className="flex justify-center py-1">
-          IT Engineer | DevOps Enthusiast | Motorbike Rider 🏍️💨
+          IT Engineer | DevOps Enthusiast | Motorbike Rider 🏍️
         </p>
       </div>
       <hr />
