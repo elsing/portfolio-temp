@@ -13,20 +13,13 @@ export default function Top() {
             className="rounded-full w-1/2 h-1/2"
           />
         </div>
-        <h1 className="text-4xl flex justify-center font-bold ">
+        <h1 className="text-4xl flex justify-center italic font-bold py-2">
           Elliot Singer
         </h1>
-        <h2 className="flex justify-center text-justify">
-          Hello! I am a currently Computer Networks undergradudate with a
-          passion for DevOPs, Software Engineering, home labbing and lots more!
-          Furthermore, my love for learning allows me to quickly pick up new
-          concepts.
-        </h2>
+        <p className="flex justify-center py-1">
+          IT Engineer | DevOps Enthusiast | Motorbike Rider 🏍️
+        </p>
       </div>
-      <hr />
-      <p className="flex justify-center py-2">
-        Please feel free to reach out to me!
-      </p>
       <hr />
     </div>
   );
